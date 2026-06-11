@@ -31,7 +31,8 @@ jobs:
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-        run: python3 scripts/fetch_releases.py
+          PYTHONUNBUFFERED: "1"
+        run: python3 -u scripts/fetch_releases.py
 
       - name: Générer le site
         run: python3 scripts/generate_site.py
@@ -54,4 +55,4 @@ jobs:
 
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+   

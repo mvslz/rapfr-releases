@@ -44,7 +44,7 @@ def get_token():
         },
         method="POST",
     )
-    with urllib.request.urlopen(req) as resp:
+    with urllib.request.urlopen(req, timeout=15) as resp:
         data = json.load(resp)
     return data["access_token"]
 
@@ -55,7 +55,7 @@ def api_get(url, token, params=None):
     req = urllib.request.Request(url, headers={"Authorization": f"Bearer {token}"})
     for attempt in range(5):
         try:
-            with urllib.request.urlopen(req) as resp:
+            with urllib.request.urlopen(req, timeout=15) as resp:
                 return json.load(resp)
         except urllib.error.HTTPError as e:
             if e.code == 429:
@@ -136,6 +136,7 @@ def main():
 
     for category, names in artists_by_category.items():
         for name in names:
+            print(f"-> {name} ({category})")
             try:
                 result = search_artist_id(name, token)
             except Exception as e:
@@ -169,5 +170,4 @@ def main():
         "releases": all_releases,
     }
 
-    with open(RELEASES_FILE, "w", encoding="utf-8") as f:
-        json.dump(output, f, ensure_ascii=Fal
+    with open(RELEASES_FILE, "w", 
