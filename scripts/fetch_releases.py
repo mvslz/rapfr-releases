@@ -51,7 +51,7 @@ def get_token():
 
 def api_get(url, token, params=None):
     if params:
-        url += "?" + urllib.parse.urlencode(params)
+        url += "?" + urllib.parse.urlencode(params, safe=",")
     req = urllib.request.Request(url, headers={"Authorization": f"Bearer {token}"})
     for attempt in range(5):
         try:
@@ -62,6 +62,8 @@ def api_get(url, token, params=None):
                 wait = int(e.headers.get("Retry-After", "2"))
                 time.sleep(wait + 1)
                 continue
+            body = e.read().decode(errors="replace")
+            print(f"    -> {e.code} {url} :: {body[:300]}", file=sys.stderr)
             raise
     raise RuntimeError("Trop de tentatives échouées")
 
@@ -168,10 +170,4 @@ def main():
     }
 
     with open(RELEASES_FILE, "w", encoding="utf-8") as f:
-        json.dump(output, f, ensure_ascii=False, indent=2)
-
-    print(f"{len(all_releases)} sorties trouvées depuis {since_date.isoformat()}.")
-
-
-if __name__ == "__main__":
-    main()
+        json.dump(output, f, ensure_ascii=Fal
