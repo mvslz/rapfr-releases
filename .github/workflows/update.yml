@@ -1,0 +1,57 @@
+name: Mise à jour hebdomadaire des sorties Rap FR
+
+on:
+  schedule:
+    # Tous les vendredis à 06h00 UTC (jour habituel des sorties musicales)
+    - cron: "0 6 * * 5"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Récupérer les nouvelles sorties
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+        run: python3 scripts/fetch_releases.py
+
+      - name: Générer le site
+        run: python3 scripts/generate_site.py
+
+      - name: Commit des données mises à jour
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/releases.json index.html
+          git diff --staged --quiet || git commit -m "Mise à jour automatique des sorties ($(date +%Y-%m-%d))"
+          git push
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
