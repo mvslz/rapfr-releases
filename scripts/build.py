@@ -436,7 +436,9 @@ def fmt_date(s):
 
 def card_html(r):
     label = TYPE_LABELS.get(r.get("type", "").lower(), r.get("type", "").upper())
-    url   = r.get("url", "#")
+    spotify_url = r.get("url", "")
+    # song.link détecte automatiquement Spotify et propose toutes les plateformes
+    url = f"https://song.link/?url={spotify_url}" if spotify_url else "#"
     if r.get("image"):
         img = (
             '<div class="card-img-wrap">'
