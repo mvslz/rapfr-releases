@@ -52,7 +52,11 @@ def api_get(url, token, params=None):
                 return json.load(r)
         except urllib.error.HTTPError as e:
             if e.code == 429:
-                wait = int(e.headers.get("Retry-After", "2"))
+                raw = int(e.headers.get("Retry-After", "2"))
+                wait = min(raw, 30)  # jamais plus de 30s — au-delà on abandonne
+                if raw > 30:
+                    print(f"  rate-limit trop long ({raw}s), on passe.", flush=True)
+                    return None
                 print(f"  rate-limit, attente {wait}s...", flush=True)
                 time.sleep(wait + 1)
                 continue
@@ -68,6 +72,8 @@ def find_artist(name, token):
         token,
         {"q": f'artist:"{name}"', "type": "artist", "limit": 5, "market": "FR"},
     )
+    if data is None:
+        return None
     items = data.get("artists", {}).get("items", [])
     if not items:
         return None
@@ -95,6 +101,8 @@ def fetch_albums(artist_id, token, since):
     while url:
         data = api_get(url, token, params)
         params = None
+        if data is None:
+            break
         for album in data.get("items", []):
             d = parse_date(album)
             if d and d >= since:
