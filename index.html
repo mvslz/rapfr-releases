@@ -188,7 +188,7 @@ body {
   text-transform: uppercase;
 }
 
-/* CARD */
+/* CARD - image fills, text overlays bottom */
 .card {
   background: #1a1a1a;
   position: relative;
@@ -311,6 +311,7 @@ body {
 }
 
 @media (max-width: 480px) {
+  .card-grid { grid-template-columns: repeat(2, 1fr); }
   .site-nav a { padding: .8rem 1.2rem; }
 }
 </style>
@@ -320,18 +321,14 @@ body {
 <div class="header-top">
 <h1>Sorties<em>Rap FR</em></h1>
 <div class="header-sub">
-<div class="header-meta">Semaine du 11.06.2026&nbsp;&nbsp;&bull;&nbsp;&nbsp;Mis a jour 11.06.2026</div>
+<div class="header-meta">Semaine du 05.06.2026&nbsp;&nbsp;&bull;&nbsp;&nbsp;Mis a jour 12.06.2026</div>
 <div class="header-count">0 <span>sorties</span></div>
 </div>
 </div>
 <div class="ticker-wrap"><div class="ticker"><span class="ticker-item">RAP &nbsp;&bull;&nbsp; FR &nbsp;&bull;&nbsp; SORTIES</span><span class="ticker-item">RAP &nbsp;&bull;&nbsp; FR &nbsp;&bull;&nbsp; SORTIES</span><span class="ticker-item">RAP &nbsp;&bull;&nbsp; FR &nbsp;&bull;&nbsp; SORTIES</span><span class="ticker-item">RAP &nbsp;&bull;&nbsp; FR &nbsp;&bull;&nbsp; SORTIES</span></div></div>
 </header>
 <nav class="site-nav"><a href="#caviar">RAP CAVIAR</a><a href="#mainstream">MAINSTREAM</a><a href="#niche">RAP DE NICHE</a></nav>
-<main>
-<section class="cat-section" id="caviar"><div class="section-head"><div class="section-name">RAP CAVIAR</div><div class="section-tag">L'underground qui fait reference</div></div><div class="empty-section">Aucune sortie cette semaine.</div></section>
-<section class="cat-section" id="mainstream"><div class="section-head"><div class="section-name">MAINSTREAM</div><div class="section-tag">Ce que tout le monde ecoute</div></div><div class="empty-section">Aucune sortie cette semaine.</div></section>
-<section class="cat-section" id="niche"><div class="section-head"><div class="section-name">RAP DE NICHE</div><div class="section-tag">Pour ceux qui creusent</div></div><div class="empty-section">Aucune sortie cette semaine.</div></section>
-</main>
+<main><section class="cat-section" id="caviar"><div class="section-head"><div class="section-name">RAP CAVIAR</div><div class="section-tag">L'underground qui fait reference</div></div><div class="empty-section">Aucune sortie cette semaine.</div></section><section class="cat-section" id="mainstream"><div class="section-head"><div class="section-name">MAINSTREAM</div><div class="section-tag">Ce que tout le monde ecoute</div></div><div class="empty-section">Aucune sortie cette semaine.</div></section><section class="cat-section" id="niche"><div class="section-head"><div class="section-name">RAP DE NICHE</div><div class="section-tag">Pour ceux qui creusent</div></div><div class="empty-section">Aucune sortie cette semaine.</div></section></main>
 <footer class="site-footer">
 <div class="footer-logo">Sorties <span>Rap FR</span></div>
 <div>Data &mdash; <a href="https://spotify.com" target="_blank">Spotify</a>&nbsp;&middot;&nbsp;<a href="https://github.com/mvslz/rapfr-releases" target="_blank">GitHub</a></div>
