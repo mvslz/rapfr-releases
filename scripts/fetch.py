@@ -75,12 +75,11 @@ def find_artist(name):
 
 def fetch_albums(artist_id, since):
     results = []
-    # Deezer limite a 25 par page — on pagine via le champ next
+    # pas de param limit sur cet endpoint — on pagine via le champ next
     path   = f"/artist/{artist_id}/albums"
-    params = {"limit": 25, "index": 0}
+    params = None
     while path:
         data   = api_get(path, params)
-        params = None  # l'URL next embarque deja les params
         if not data:
             break
         for album in data.get("data", []):
