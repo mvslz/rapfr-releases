@@ -21,8 +21,6 @@ jobs:
 
       - name: Fetch releases
         env:
-          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
-          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           PYTHONUNBUFFERED: "1"
         run: python3 -u scripts/fetch.py
 
