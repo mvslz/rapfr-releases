@@ -75,35 +75,46 @@ def find_artist(name):
 
 def fetch_albums(artist_id, since):
     results = []
-    data = api_get(f"/artist/{artist_id}/albums", {"limit": 100})
-    if not data:
-        return results
-    for album in data.get("data", []):
-        raw_date = album.get("release_date", "")
-        try:
-            d = datetime.date.fromisoformat(raw_date)
-        except ValueError:
-            continue
-        if d < since:
-            continue
-        record_type = album.get("record_type", "album").lower()
-        # ignorer les compilations multi-artistes (souvent du bruit)
-        if record_type == "compilation":
-            continue
-        cover = (
-            album.get("cover_xl")
-            or album.get("cover_big")
-            or album.get("cover_medium")
-            or album.get("cover")
-            or ""
-        )
-        results.append({
-            "title":        album["title"],
-            "type":         record_type,
-            "release_date": raw_date,
-            "url":          album.get("link", ""),
-            "image":        cover,
-        })
+    # Deezer limite a 25 par page — on pagine via le champ next
+    path   = f"/artist/{artist_id}/albums"
+    params = {"limit": 25, "index": 0}
+    while path:
+        data   = api_get(path, params)
+        params = None  # l'URL next embarque deja les params
+        if not data:
+            break
+        for album in data.get("data", []):
+            raw_date = album.get("release_date", "")
+            try:
+                d = datetime.date.fromisoformat(raw_date)
+            except ValueError:
+                continue
+            if d < since:
+                continue
+            record_type = album.get("record_type", "album").lower()
+            if record_type == "compilation":
+                continue
+            cover = (
+                album.get("cover_xl")
+                or album.get("cover_big")
+                or album.get("cover_medium")
+                or album.get("cover")
+                or ""
+            )
+            results.append({
+                "title":        album["title"],
+                "type":         record_type,
+                "release_date": raw_date,
+                "url":          album.get("link", ""),
+                "image":        cover,
+            })
+        # next est une URL absolue ou absente
+        next_url = data.get("next", "")
+        if next_url:
+            path   = next_url.replace("https://api.deezer.com", "")
+            params = None
+        else:
+            path = None
     return results
 
 
