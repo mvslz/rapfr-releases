@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T10:53:54.675501Z",
-  "since_date": "2026-06-12",
+  "generated_at": "2026-06-26T09:45:13.819491Z",
+  "since_date": "2026-06-19",
   "releases": [
     {
       "title": "ZushiBoyz vol.1",
@@ -9,6 +9,96 @@
       "url": "https://www.deezer.com/album/285164092",
       "image": "",
       "artist": "Caballero & JeanJass",
+      "category": "caviar"
+    },
+    {
+      "title": "AVANT LA SAISIE",
+      "type": "album",
+      "release_date": "2026-06-26",
+      "url": "https://www.deezer.com/album/1011454081",
+      "image": "https://cdn-images.dzcdn.net/images/cover/84a7534becfc6d9bdb3a55a2abf8642b/1000x1000-000000-80-0-0.jpg",
+      "artist": "Heuss L'enfoiré",
+      "category": "mainstream"
+    },
+    {
+      "title": "J'ai pas prévu tout ça",
+      "type": "single",
+      "release_date": "2026-06-25",
+      "url": "https://www.deezer.com/album/1014234491",
+      "image": "https://cdn-images.dzcdn.net/images/cover/9c00576ead774671faa5617b67e4676d/1000x1000-000000-80-0-0.jpg",
+      "artist": "Jul",
+      "category": "mainstream"
+    },
+    {
+      "title": "L.T.P",
+      "type": "single",
+      "release_date": "2026-06-25",
+      "url": "https://www.deezer.com/album/1006065451",
+      "image": "https://cdn-images.dzcdn.net/images/cover/7bc482d945ecf4b8062967251b591ec5/1000x1000-000000-80-0-0.jpg",
+      "artist": "Ninho",
+      "category": "mainstream"
+    },
+    {
+      "title": "DUR",
+      "type": "single",
+      "release_date": "2026-06-25",
+      "url": "https://www.deezer.com/album/1006949691",
+      "image": "https://cdn-images.dzcdn.net/images/cover/cf25cbdea5d5ab2431d74cb76c7acdbd/1000x1000-000000-80-0-0.jpg",
+      "artist": "Ninho",
+      "category": "mainstream"
+    },
+    {
+      "title": "NINJA (feat. GIMS)",
+      "type": "single",
+      "release_date": "2026-06-25",
+      "url": "https://www.deezer.com/album/1006239891",
+      "image": "https://cdn-images.dzcdn.net/images/cover/8bdeb6f7d55d31259912c6d01a4cf800/1000x1000-000000-80-0-0.jpg",
+      "artist": "GIMS",
+      "category": "mainstream"
+    },
+    {
+      "title": "Bracelet",
+      "type": "single",
+      "release_date": "2026-06-25",
+      "url": "https://www.deezer.com/album/1003481621",
+      "image": "https://cdn-images.dzcdn.net/images/cover/bb75f07ba74f427360dae65b9f2fbb44/1000x1000-000000-80-0-0.jpg",
+      "artist": "Heuss L'enfoiré",
+      "category": "mainstream"
+    },
+    {
+      "title": "Black Card",
+      "type": "single",
+      "release_date": "2026-06-25",
+      "url": "https://www.deezer.com/album/1003481651",
+      "image": "https://cdn-images.dzcdn.net/images/cover/bb75f07ba74f427360dae65b9f2fbb44/1000x1000-000000-80-0-0.jpg",
+      "artist": "Heuss L'enfoiré",
+      "category": "mainstream"
+    },
+    {
+      "title": "Rien n'a changé",
+      "type": "single",
+      "release_date": "2026-06-25",
+      "url": "https://www.deezer.com/album/1003481731",
+      "image": "https://cdn-images.dzcdn.net/images/cover/bb75f07ba74f427360dae65b9f2fbb44/1000x1000-000000-80-0-0.jpg",
+      "artist": "Heuss L'enfoiré",
+      "category": "mainstream"
+    },
+    {
+      "title": "Tu vas me quitter",
+      "type": "single",
+      "release_date": "2026-06-22",
+      "url": "https://www.deezer.com/album/1008906051",
+      "image": "https://cdn-images.dzcdn.net/images/cover/e544841746d630c4e042fbf01a44cbcf/1000x1000-000000-80-0-0.jpg",
+      "artist": "Dinos",
+      "category": "caviar"
+    },
+    {
+      "title": "HHHH²",
+      "type": "album",
+      "release_date": "2026-06-21",
+      "url": "https://www.deezer.com/album/1007999341",
+      "image": "https://cdn-images.dzcdn.net/images/cover/ed3bac12934789b14ba392f45df00dba/1000x1000-000000-80-0-0.jpg",
+      "artist": "Josman",
       "category": "caviar"
     },
     {
@@ -25,7 +115,7 @@
       "type": "single",
       "release_date": "2026-06-19",
       "url": "https://www.deezer.com/album/1006111221",
-      "image": "https://cdn-images.dzcdn.net/images/cover/82bd37d7f64a0833878b9a65ca4fbc30/1000x1000-000000-80-0-0.jpg",
+      "image": "https://cdn-images.dzcdn.net/images/cover/2b59930031d9340b388112f568ef6488/1000x1000-000000-80-0-0.jpg",
       "artist": "GIMS",
       "category": "mainstream"
     },
@@ -37,69 +127,6 @@
       "image": "https://cdn-images.dzcdn.net/images/cover/cbc2b24bc1bf4383be3f0c827829c5a2/1000x1000-000000-80-0-0.jpg",
       "artist": "Swing",
       "category": "niche"
-    },
-    {
-      "title": "La donneuse",
-      "type": "single",
-      "release_date": "2026-06-18",
-      "url": "https://www.deezer.com/album/1002299471",
-      "image": "https://cdn-images.dzcdn.net/images/cover/1046544572444a58891477cc4b79a0b2/1000x1000-000000-80-0-0.jpg",
-      "artist": "Gazo",
-      "category": "mainstream"
-    },
-    {
-      "title": "En mémoire de nos premiers jours (SABR)",
-      "type": "single",
-      "release_date": "2026-06-18",
-      "url": "https://www.deezer.com/album/1003994331",
-      "image": "https://cdn-images.dzcdn.net/images/cover/408b81dbbe5003e4f1bcd1ed62281d60/1000x1000-000000-80-0-0.jpg",
-      "artist": "Zamdane",
-      "category": "niche"
-    },
-    {
-      "title": "Mélo Décalé",
-      "type": "single",
-      "release_date": "2026-06-12",
-      "url": "https://www.deezer.com/album/996625601",
-      "image": "https://cdn-images.dzcdn.net/images/cover/9590478de299bb62654cc23234605d86/1000x1000-000000-80-0-0.jpg",
-      "artist": "Tiakola",
-      "category": "mainstream"
-    },
-    {
-      "title": "Seknet Marseille",
-      "type": "single",
-      "release_date": "2026-06-12",
-      "url": "https://www.deezer.com/album/998390251",
-      "image": "https://cdn-images.dzcdn.net/images/cover/bd140f30d357bcb90cea37ef705cf085/1000x1000-000000-80-0-0.jpg",
-      "artist": "Soolking",
-      "category": "mainstream"
-    },
-    {
-      "title": "Marsellus Wallace",
-      "type": "single",
-      "release_date": "2026-06-12",
-      "url": "https://www.deezer.com/album/1000233921",
-      "image": "https://cdn-images.dzcdn.net/images/cover/bf0d256cc91a00d064477049bef7d163/1000x1000-000000-80-0-0.jpg",
-      "artist": "Heuss L'enfoiré",
-      "category": "mainstream"
-    },
-    {
-      "title": "Chérie coco",
-      "type": "single",
-      "release_date": "2026-06-12",
-      "url": "https://www.deezer.com/album/1000233911",
-      "image": "https://cdn-images.dzcdn.net/images/cover/8efa03511c3e151c513ade4a8b31a6ba/1000x1000-000000-80-0-0.jpg",
-      "artist": "Leto",
-      "category": "mainstream"
-    },
-    {
-      "title": "Diamant de la rue",
-      "type": "single",
-      "release_date": "2026-06-12",
-      "url": "https://www.deezer.com/album/987960401",
-      "image": "https://cdn-images.dzcdn.net/images/cover/6fe181f065fe5354bcbe0422dc2920d5/1000x1000-000000-80-0-0.jpg",
-      "artist": "Koba LaD",
-      "category": "mainstream"
     }
   ]
 }
