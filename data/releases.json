@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T09:45:13.819491Z",
-  "since_date": "2026-06-19",
+  "generated_at": "2026-07-03T09:32:05.989528Z",
+  "since_date": "2026-06-26",
   "releases": [
     {
       "title": "ZushiBoyz vol.1",
@@ -12,6 +12,60 @@
       "category": "caviar"
     },
     {
+      "title": "Boss (Remix)",
+      "type": "single",
+      "release_date": "2026-07-03",
+      "url": "https://www.deezer.com/album/1018737141",
+      "image": "https://cdn-images.dzcdn.net/images/cover/f572de3f7e616d2bea229251aa79de9d/1000x1000-000000-80-0-0.jpg",
+      "artist": "Orelsan",
+      "category": "caviar"
+    },
+    {
+      "title": "Otage",
+      "type": "single",
+      "release_date": "2026-07-03",
+      "url": "https://www.deezer.com/album/1014267121",
+      "image": "https://cdn-images.dzcdn.net/images/cover/a4802eb995deda327eae60c3060f1f53/1000x1000-000000-80-0-0.jpg",
+      "artist": "Leto",
+      "category": "mainstream"
+    },
+    {
+      "title": "Quelques sons pour l'été",
+      "type": "album",
+      "release_date": "2026-07-03",
+      "url": "https://www.deezer.com/album/1011705441",
+      "image": "https://cdn-images.dzcdn.net/images/cover/90d14d579127edc382bd4b3a00e50742/1000x1000-000000-80-0-0.jpg",
+      "artist": "Lujipeka",
+      "category": "niche"
+    },
+    {
+      "title": "Charbon & Diamant",
+      "type": "single",
+      "release_date": "2026-07-02",
+      "url": "https://www.deezer.com/album/1009787691",
+      "image": "https://cdn-images.dzcdn.net/images/cover/72b78cf68c308de13cfef76b5a47adca/1000x1000-000000-80-0-0.jpg",
+      "artist": "Leto",
+      "category": "mainstream"
+    },
+    {
+      "title": "Bitume",
+      "type": "single",
+      "release_date": "2026-07-02",
+      "url": "https://www.deezer.com/album/1004281911",
+      "image": "https://cdn-images.dzcdn.net/images/cover/4624363b2658c452e1ddd27741e63e0b/1000x1000-000000-80-0-0.jpg",
+      "artist": "Booba",
+      "category": "mainstream"
+    },
+    {
+      "title": "crame",
+      "type": "single",
+      "release_date": "2026-07-02",
+      "url": "https://www.deezer.com/album/1012644751",
+      "image": "https://cdn-images.dzcdn.net/images/cover/38ec704c7721006e3aa39495114e9350/1000x1000-000000-80-0-0.jpg",
+      "artist": "Kalash Criminel",
+      "category": "mainstream"
+    },
+    {
       "title": "AVANT LA SAISIE",
       "type": "album",
       "release_date": "2026-06-26",
@@ -19,114 +73,6 @@
       "image": "https://cdn-images.dzcdn.net/images/cover/84a7534becfc6d9bdb3a55a2abf8642b/1000x1000-000000-80-0-0.jpg",
       "artist": "Heuss L'enfoiré",
       "category": "mainstream"
-    },
-    {
-      "title": "J'ai pas prévu tout ça",
-      "type": "single",
-      "release_date": "2026-06-25",
-      "url": "https://www.deezer.com/album/1014234491",
-      "image": "https://cdn-images.dzcdn.net/images/cover/9c00576ead774671faa5617b67e4676d/1000x1000-000000-80-0-0.jpg",
-      "artist": "Jul",
-      "category": "mainstream"
-    },
-    {
-      "title": "L.T.P",
-      "type": "single",
-      "release_date": "2026-06-25",
-      "url": "https://www.deezer.com/album/1006065451",
-      "image": "https://cdn-images.dzcdn.net/images/cover/7bc482d945ecf4b8062967251b591ec5/1000x1000-000000-80-0-0.jpg",
-      "artist": "Ninho",
-      "category": "mainstream"
-    },
-    {
-      "title": "DUR",
-      "type": "single",
-      "release_date": "2026-06-25",
-      "url": "https://www.deezer.com/album/1006949691",
-      "image": "https://cdn-images.dzcdn.net/images/cover/cf25cbdea5d5ab2431d74cb76c7acdbd/1000x1000-000000-80-0-0.jpg",
-      "artist": "Ninho",
-      "category": "mainstream"
-    },
-    {
-      "title": "NINJA (feat. GIMS)",
-      "type": "single",
-      "release_date": "2026-06-25",
-      "url": "https://www.deezer.com/album/1006239891",
-      "image": "https://cdn-images.dzcdn.net/images/cover/8bdeb6f7d55d31259912c6d01a4cf800/1000x1000-000000-80-0-0.jpg",
-      "artist": "GIMS",
-      "category": "mainstream"
-    },
-    {
-      "title": "Bracelet",
-      "type": "single",
-      "release_date": "2026-06-25",
-      "url": "https://www.deezer.com/album/1003481621",
-      "image": "https://cdn-images.dzcdn.net/images/cover/bb75f07ba74f427360dae65b9f2fbb44/1000x1000-000000-80-0-0.jpg",
-      "artist": "Heuss L'enfoiré",
-      "category": "mainstream"
-    },
-    {
-      "title": "Black Card",
-      "type": "single",
-      "release_date": "2026-06-25",
-      "url": "https://www.deezer.com/album/1003481651",
-      "image": "https://cdn-images.dzcdn.net/images/cover/bb75f07ba74f427360dae65b9f2fbb44/1000x1000-000000-80-0-0.jpg",
-      "artist": "Heuss L'enfoiré",
-      "category": "mainstream"
-    },
-    {
-      "title": "Rien n'a changé",
-      "type": "single",
-      "release_date": "2026-06-25",
-      "url": "https://www.deezer.com/album/1003481731",
-      "image": "https://cdn-images.dzcdn.net/images/cover/bb75f07ba74f427360dae65b9f2fbb44/1000x1000-000000-80-0-0.jpg",
-      "artist": "Heuss L'enfoiré",
-      "category": "mainstream"
-    },
-    {
-      "title": "Tu vas me quitter",
-      "type": "single",
-      "release_date": "2026-06-22",
-      "url": "https://www.deezer.com/album/1008906051",
-      "image": "https://cdn-images.dzcdn.net/images/cover/e544841746d630c4e042fbf01a44cbcf/1000x1000-000000-80-0-0.jpg",
-      "artist": "Dinos",
-      "category": "caviar"
-    },
-    {
-      "title": "HHHH²",
-      "type": "album",
-      "release_date": "2026-06-21",
-      "url": "https://www.deezer.com/album/1007999341",
-      "image": "https://cdn-images.dzcdn.net/images/cover/ed3bac12934789b14ba392f45df00dba/1000x1000-000000-80-0-0.jpg",
-      "artist": "Josman",
-      "category": "caviar"
-    },
-    {
-      "title": "Flashback",
-      "type": "single",
-      "release_date": "2026-06-19",
-      "url": "https://www.deezer.com/album/985262781",
-      "image": "https://cdn-images.dzcdn.net/images/cover/e3385cffc97eb12a8cc31bfb63e883a1/1000x1000-000000-80-0-0.jpg",
-      "artist": "Dinos",
-      "category": "caviar"
-    },
-    {
-      "title": "SOUS CONTRÔLE",
-      "type": "single",
-      "release_date": "2026-06-19",
-      "url": "https://www.deezer.com/album/1006111221",
-      "image": "https://cdn-images.dzcdn.net/images/cover/2b59930031d9340b388112f568ef6488/1000x1000-000000-80-0-0.jpg",
-      "artist": "GIMS",
-      "category": "mainstream"
-    },
-    {
-      "title": "ILY",
-      "type": "single",
-      "release_date": "2026-06-19",
-      "url": "https://www.deezer.com/album/992305001",
-      "image": "https://cdn-images.dzcdn.net/images/cover/cbc2b24bc1bf4383be3f0c827829c5a2/1000x1000-000000-80-0-0.jpg",
-      "artist": "Swing",
-      "category": "niche"
     }
   ]
 }
