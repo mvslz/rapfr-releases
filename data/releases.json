@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T09:32:05.989528Z",
-  "since_date": "2026-06-26",
+  "generated_at": "2026-07-10T09:50:26.444911Z",
+  "since_date": "2026-07-03",
   "releases": [
     {
       "title": "ZushiBoyz vol.1",
@@ -10,6 +10,51 @@
       "image": "",
       "artist": "Caballero & JeanJass",
       "category": "caviar"
+    },
+    {
+      "title": "FBI",
+      "type": "single",
+      "release_date": "2026-07-10",
+      "url": "https://www.deezer.com/album/1019783771",
+      "image": "https://cdn-images.dzcdn.net/images/cover/0caafb32376004de9783bd4a64946786/1000x1000-000000-80-0-0.jpg",
+      "artist": "Ninho",
+      "category": "mainstream"
+    },
+    {
+      "title": "Été solitaire (SABR)",
+      "type": "single",
+      "release_date": "2026-07-09",
+      "url": "https://www.deezer.com/album/1019847701",
+      "image": "https://cdn-images.dzcdn.net/images/cover/896cf780fe1adc179301ba8c9fed5f4a/1000x1000-000000-80-0-0.jpg",
+      "artist": "Zamdane",
+      "category": "niche"
+    },
+    {
+      "title": "CHÈVRE GOAT NTABA (GRM x yard)",
+      "type": "single",
+      "release_date": "2026-07-08",
+      "url": "https://www.deezer.com/album/1011430201",
+      "image": "https://cdn-images.dzcdn.net/images/cover/d80d71feaa39f9ce5fd333555f6d0811/1000x1000-000000-80-0-0.jpg",
+      "artist": "Leto",
+      "category": "mainstream"
+    },
+    {
+      "title": "17",
+      "type": "single",
+      "release_date": "2026-07-08",
+      "url": "https://www.deezer.com/album/1014456581",
+      "image": "https://cdn-images.dzcdn.net/images/cover/d49a9c2d57992dfe31038441014da2e2/1000x1000-000000-80-0-0.jpg",
+      "artist": "Larry",
+      "category": "niche"
+    },
+    {
+      "title": "Charbon & Diamant",
+      "type": "single",
+      "release_date": "2026-07-04",
+      "url": "https://www.deezer.com/album/1009787691",
+      "image": "https://cdn-images.dzcdn.net/images/cover/72b78cf68c308de13cfef76b5a47adca/1000x1000-000000-80-0-0.jpg",
+      "artist": "Leto",
+      "category": "mainstream"
     },
     {
       "title": "Boss (Remix)",
@@ -31,48 +76,12 @@
     },
     {
       "title": "Quelques sons pour l'été",
-      "type": "album",
+      "type": "ep",
       "release_date": "2026-07-03",
       "url": "https://www.deezer.com/album/1011705441",
       "image": "https://cdn-images.dzcdn.net/images/cover/90d14d579127edc382bd4b3a00e50742/1000x1000-000000-80-0-0.jpg",
       "artist": "Lujipeka",
       "category": "niche"
-    },
-    {
-      "title": "Charbon & Diamant",
-      "type": "single",
-      "release_date": "2026-07-02",
-      "url": "https://www.deezer.com/album/1009787691",
-      "image": "https://cdn-images.dzcdn.net/images/cover/72b78cf68c308de13cfef76b5a47adca/1000x1000-000000-80-0-0.jpg",
-      "artist": "Leto",
-      "category": "mainstream"
-    },
-    {
-      "title": "Bitume",
-      "type": "single",
-      "release_date": "2026-07-02",
-      "url": "https://www.deezer.com/album/1004281911",
-      "image": "https://cdn-images.dzcdn.net/images/cover/4624363b2658c452e1ddd27741e63e0b/1000x1000-000000-80-0-0.jpg",
-      "artist": "Booba",
-      "category": "mainstream"
-    },
-    {
-      "title": "crame",
-      "type": "single",
-      "release_date": "2026-07-02",
-      "url": "https://www.deezer.com/album/1012644751",
-      "image": "https://cdn-images.dzcdn.net/images/cover/38ec704c7721006e3aa39495114e9350/1000x1000-000000-80-0-0.jpg",
-      "artist": "Kalash Criminel",
-      "category": "mainstream"
-    },
-    {
-      "title": "AVANT LA SAISIE",
-      "type": "album",
-      "release_date": "2026-06-26",
-      "url": "https://www.deezer.com/album/1011454081",
-      "image": "https://cdn-images.dzcdn.net/images/cover/84a7534becfc6d9bdb3a55a2abf8642b/1000x1000-000000-80-0-0.jpg",
-      "artist": "Heuss L'enfoiré",
-      "category": "mainstream"
     }
   ]
 }
