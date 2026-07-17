@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T09:50:26.444911Z",
-  "since_date": "2026-07-03",
+  "generated_at": "2026-07-17T08:23:16.182723Z",
+  "since_date": "2026-07-10",
   "releases": [
     {
       "title": "ZushiBoyz vol.1",
@@ -12,76 +12,58 @@
       "category": "caviar"
     },
     {
+      "title": "ZushiBoyz, Vol. 2",
+      "type": "album",
+      "release_date": "2026-07-17",
+      "url": "https://www.deezer.com/album/1018329571",
+      "image": "https://cdn-images.dzcdn.net/images/cover/6121ef79bd78f3f6cb89005fb96cfdde/1000x1000-000000-80-0-0.jpg",
+      "artist": "Caballero & JeanJass",
+      "category": "caviar"
+    },
+    {
+      "title": "Dark Maul",
+      "type": "single",
+      "release_date": "2026-07-17",
+      "url": "https://www.deezer.com/album/1029918402",
+      "image": "https://cdn-images.dzcdn.net/images/cover/ed9cd373d69975c7b5e5aae14499e410/1000x1000-000000-80-0-0.jpg",
+      "artist": "Caballero & JeanJass",
+      "category": "caviar"
+    },
+    {
+      "title": "American Pie",
+      "type": "single",
+      "release_date": "2026-07-17",
+      "url": "https://www.deezer.com/album/1029928592",
+      "image": "https://cdn-images.dzcdn.net/images/cover/ed9cd373d69975c7b5e5aae14499e410/1000x1000-000000-80-0-0.jpg",
+      "artist": "Caballero & JeanJass",
+      "category": "caviar"
+    },
+    {
+      "title": "VIVE LA MONNAIE",
+      "type": "single",
+      "release_date": "2026-07-17",
+      "url": "https://www.deezer.com/album/1029688282",
+      "image": "https://cdn-images.dzcdn.net/images/cover/1835723079118514c0b09a337e4bac9f/1000x1000-000000-80-0-0.jpg",
+      "artist": "GIMS",
+      "category": "mainstream"
+    },
+    {
+      "title": "Génération Assassin Remix",
+      "type": "single",
+      "release_date": "2026-07-17",
+      "url": "https://www.deezer.com/album/1027905702",
+      "image": "https://cdn-images.dzcdn.net/images/cover/4f975914512f8a66e9f4451d8994ebe8/1000x1000-000000-80-0-0.jpg",
+      "artist": "Booba",
+      "category": "mainstream"
+    },
+    {
       "title": "FBI",
       "type": "single",
       "release_date": "2026-07-10",
       "url": "https://www.deezer.com/album/1019783771",
-      "image": "https://cdn-images.dzcdn.net/images/cover/0caafb32376004de9783bd4a64946786/1000x1000-000000-80-0-0.jpg",
+      "image": "https://cdn-images.dzcdn.net/images/cover/c1d94de07db8bbfe75d11dc60d7710dc/1000x1000-000000-80-0-0.jpg",
       "artist": "Ninho",
       "category": "mainstream"
-    },
-    {
-      "title": "Été solitaire (SABR)",
-      "type": "single",
-      "release_date": "2026-07-09",
-      "url": "https://www.deezer.com/album/1019847701",
-      "image": "https://cdn-images.dzcdn.net/images/cover/896cf780fe1adc179301ba8c9fed5f4a/1000x1000-000000-80-0-0.jpg",
-      "artist": "Zamdane",
-      "category": "niche"
-    },
-    {
-      "title": "CHÈVRE GOAT NTABA (GRM x yard)",
-      "type": "single",
-      "release_date": "2026-07-08",
-      "url": "https://www.deezer.com/album/1011430201",
-      "image": "https://cdn-images.dzcdn.net/images/cover/d80d71feaa39f9ce5fd333555f6d0811/1000x1000-000000-80-0-0.jpg",
-      "artist": "Leto",
-      "category": "mainstream"
-    },
-    {
-      "title": "17",
-      "type": "single",
-      "release_date": "2026-07-08",
-      "url": "https://www.deezer.com/album/1014456581",
-      "image": "https://cdn-images.dzcdn.net/images/cover/d49a9c2d57992dfe31038441014da2e2/1000x1000-000000-80-0-0.jpg",
-      "artist": "Larry",
-      "category": "niche"
-    },
-    {
-      "title": "Charbon & Diamant",
-      "type": "single",
-      "release_date": "2026-07-04",
-      "url": "https://www.deezer.com/album/1009787691",
-      "image": "https://cdn-images.dzcdn.net/images/cover/72b78cf68c308de13cfef76b5a47adca/1000x1000-000000-80-0-0.jpg",
-      "artist": "Leto",
-      "category": "mainstream"
-    },
-    {
-      "title": "Boss (Remix)",
-      "type": "single",
-      "release_date": "2026-07-03",
-      "url": "https://www.deezer.com/album/1018737141",
-      "image": "https://cdn-images.dzcdn.net/images/cover/f572de3f7e616d2bea229251aa79de9d/1000x1000-000000-80-0-0.jpg",
-      "artist": "Orelsan",
-      "category": "caviar"
-    },
-    {
-      "title": "Otage",
-      "type": "single",
-      "release_date": "2026-07-03",
-      "url": "https://www.deezer.com/album/1014267121",
-      "image": "https://cdn-images.dzcdn.net/images/cover/a4802eb995deda327eae60c3060f1f53/1000x1000-000000-80-0-0.jpg",
-      "artist": "Leto",
-      "category": "mainstream"
-    },
-    {
-      "title": "Quelques sons pour l'été",
-      "type": "ep",
-      "release_date": "2026-07-03",
-      "url": "https://www.deezer.com/album/1011705441",
-      "image": "https://cdn-images.dzcdn.net/images/cover/90d14d579127edc382bd4b3a00e50742/1000x1000-000000-80-0-0.jpg",
-      "artist": "Lujipeka",
-      "category": "niche"
     }
   ]
 }
