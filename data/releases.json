@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T08:23:16.182723Z",
-  "since_date": "2026-07-10",
+  "generated_at": "2026-07-24T08:38:03.137109Z",
+  "since_date": "2026-07-17",
   "releases": [
     {
       "title": "ZushiBoyz vol.1",
@@ -12,7 +12,43 @@
       "category": "caviar"
     },
     {
-      "title": "ZushiBoyz, Vol. 2",
+      "title": "Caméra",
+      "type": "single",
+      "release_date": "2026-07-24",
+      "url": "https://www.deezer.com/album/1030781602",
+      "image": "https://cdn-images.dzcdn.net/images/cover/dd0b626dd9e5e2f03da4d2f057d9890c/1000x1000-000000-80-0-0.jpg",
+      "artist": "GIMS",
+      "category": "mainstream"
+    },
+    {
+      "title": "FANTAISIE",
+      "type": "single",
+      "release_date": "2026-07-24",
+      "url": "https://www.deezer.com/album/1033745712",
+      "image": "https://cdn-images.dzcdn.net/images/cover/5c9989fd075e08a8147c93b211bb813b/1000x1000-000000-80-0-0.jpg",
+      "artist": "GIMS",
+      "category": "mainstream"
+    },
+    {
+      "title": "Ketchup",
+      "type": "single",
+      "release_date": "2026-07-24",
+      "url": "https://www.deezer.com/album/1031651922",
+      "image": "https://cdn-images.dzcdn.net/images/cover/fe1b14ff1dc9556b94e6e7cec4503d9f/1000x1000-000000-80-0-0.jpg",
+      "artist": "Naza",
+      "category": "mainstream"
+    },
+    {
+      "title": "creeper + seed",
+      "type": "single",
+      "release_date": "2026-07-23",
+      "url": "https://www.deezer.com/album/1028093532",
+      "image": "https://cdn-images.dzcdn.net/images/cover/a4e55504edde65d568b847b97518db17/1000x1000-000000-80-0-0.jpg",
+      "artist": "Luther",
+      "category": "niche"
+    },
+    {
+      "title": "ZushiBoyz vol.2",
       "type": "album",
       "release_date": "2026-07-17",
       "url": "https://www.deezer.com/album/1018329571",
@@ -57,12 +93,12 @@
       "category": "mainstream"
     },
     {
-      "title": "FBI",
+      "title": "Booster",
       "type": "single",
-      "release_date": "2026-07-10",
-      "url": "https://www.deezer.com/album/1019783771",
-      "image": "https://cdn-images.dzcdn.net/images/cover/c1d94de07db8bbfe75d11dc60d7710dc/1000x1000-000000-80-0-0.jpg",
-      "artist": "Ninho",
+      "release_date": "2026-07-17",
+      "url": "https://www.deezer.com/album/1029681642",
+      "image": "https://cdn-images.dzcdn.net/images/cover/02f49af97beb1969ca83f02797d8ddab/1000x1000-000000-80-0-0.jpg",
+      "artist": "Naza",
       "category": "mainstream"
     }
   ]
