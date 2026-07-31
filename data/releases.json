@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T08:38:03.137109Z",
-  "since_date": "2026-07-17",
+  "generated_at": "2026-07-31T09:13:20.614139Z",
+  "since_date": "2026-07-24",
   "releases": [
     {
       "title": "ZushiBoyz vol.1",
@@ -12,13 +12,22 @@
       "category": "caviar"
     },
     {
-      "title": "Caméra",
+      "title": "Petit matin",
       "type": "single",
-      "release_date": "2026-07-24",
-      "url": "https://www.deezer.com/album/1030781602",
-      "image": "https://cdn-images.dzcdn.net/images/cover/dd0b626dd9e5e2f03da4d2f057d9890c/1000x1000-000000-80-0-0.jpg",
-      "artist": "GIMS",
+      "release_date": "2026-07-31",
+      "url": "https://www.deezer.com/album/1031603282",
+      "image": "https://cdn-images.dzcdn.net/images/cover/c9e0fcf5cce98e625c6834fa12874a61/1000x1000-000000-80-0-0.jpg",
+      "artist": "Tiakola",
       "category": "mainstream"
+    },
+    {
+      "title": "Bungalow",
+      "type": "single",
+      "release_date": "2026-07-31",
+      "url": "https://www.deezer.com/album/1033807732",
+      "image": "https://cdn-images.dzcdn.net/images/cover/47c458376ad4d4907a154bd14317dc9b/1000x1000-000000-80-0-0.jpg",
+      "artist": "Lazuli",
+      "category": "niche"
     },
     {
       "title": "FANTAISIE",
@@ -35,69 +44,6 @@
       "release_date": "2026-07-24",
       "url": "https://www.deezer.com/album/1031651922",
       "image": "https://cdn-images.dzcdn.net/images/cover/fe1b14ff1dc9556b94e6e7cec4503d9f/1000x1000-000000-80-0-0.jpg",
-      "artist": "Naza",
-      "category": "mainstream"
-    },
-    {
-      "title": "creeper + seed",
-      "type": "single",
-      "release_date": "2026-07-23",
-      "url": "https://www.deezer.com/album/1028093532",
-      "image": "https://cdn-images.dzcdn.net/images/cover/a4e55504edde65d568b847b97518db17/1000x1000-000000-80-0-0.jpg",
-      "artist": "Luther",
-      "category": "niche"
-    },
-    {
-      "title": "ZushiBoyz vol.2",
-      "type": "album",
-      "release_date": "2026-07-17",
-      "url": "https://www.deezer.com/album/1018329571",
-      "image": "https://cdn-images.dzcdn.net/images/cover/6121ef79bd78f3f6cb89005fb96cfdde/1000x1000-000000-80-0-0.jpg",
-      "artist": "Caballero & JeanJass",
-      "category": "caviar"
-    },
-    {
-      "title": "Dark Maul",
-      "type": "single",
-      "release_date": "2026-07-17",
-      "url": "https://www.deezer.com/album/1029918402",
-      "image": "https://cdn-images.dzcdn.net/images/cover/ed9cd373d69975c7b5e5aae14499e410/1000x1000-000000-80-0-0.jpg",
-      "artist": "Caballero & JeanJass",
-      "category": "caviar"
-    },
-    {
-      "title": "American Pie",
-      "type": "single",
-      "release_date": "2026-07-17",
-      "url": "https://www.deezer.com/album/1029928592",
-      "image": "https://cdn-images.dzcdn.net/images/cover/ed9cd373d69975c7b5e5aae14499e410/1000x1000-000000-80-0-0.jpg",
-      "artist": "Caballero & JeanJass",
-      "category": "caviar"
-    },
-    {
-      "title": "VIVE LA MONNAIE",
-      "type": "single",
-      "release_date": "2026-07-17",
-      "url": "https://www.deezer.com/album/1029688282",
-      "image": "https://cdn-images.dzcdn.net/images/cover/1835723079118514c0b09a337e4bac9f/1000x1000-000000-80-0-0.jpg",
-      "artist": "GIMS",
-      "category": "mainstream"
-    },
-    {
-      "title": "Génération Assassin Remix",
-      "type": "single",
-      "release_date": "2026-07-17",
-      "url": "https://www.deezer.com/album/1027905702",
-      "image": "https://cdn-images.dzcdn.net/images/cover/4f975914512f8a66e9f4451d8994ebe8/1000x1000-000000-80-0-0.jpg",
-      "artist": "Booba",
-      "category": "mainstream"
-    },
-    {
-      "title": "Booster",
-      "type": "single",
-      "release_date": "2026-07-17",
-      "url": "https://www.deezer.com/album/1029681642",
-      "image": "https://cdn-images.dzcdn.net/images/cover/02f49af97beb1969ca83f02797d8ddab/1000x1000-000000-80-0-0.jpg",
       "artist": "Naza",
       "category": "mainstream"
     }
