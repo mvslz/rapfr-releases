@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T09:13:20.614139Z",
-  "since_date": "2026-07-24",
+  "generated_at": "2026-08-07T07:36:09.779019Z",
+  "since_date": "2026-07-31",
   "releases": [
     {
       "title": "ZushiBoyz vol.1",
@@ -12,39 +12,21 @@
       "category": "caviar"
     },
     {
+      "title": "Cantona",
+      "type": "single",
+      "release_date": "2026-08-07",
+      "url": "https://www.deezer.com/album/1042609812",
+      "image": "https://cdn-images.dzcdn.net/images/cover/819c6a4237aaf053a016bdec41c11a23/1000x1000-000000-80-0-0.jpg",
+      "artist": "Soolking",
+      "category": "mainstream"
+    },
+    {
       "title": "Petit matin",
       "type": "single",
       "release_date": "2026-07-31",
       "url": "https://www.deezer.com/album/1031603282",
       "image": "https://cdn-images.dzcdn.net/images/cover/c9e0fcf5cce98e625c6834fa12874a61/1000x1000-000000-80-0-0.jpg",
       "artist": "Tiakola",
-      "category": "mainstream"
-    },
-    {
-      "title": "Bungalow",
-      "type": "single",
-      "release_date": "2026-07-31",
-      "url": "https://www.deezer.com/album/1033807732",
-      "image": "https://cdn-images.dzcdn.net/images/cover/47c458376ad4d4907a154bd14317dc9b/1000x1000-000000-80-0-0.jpg",
-      "artist": "Lazuli",
-      "category": "niche"
-    },
-    {
-      "title": "FANTAISIE",
-      "type": "single",
-      "release_date": "2026-07-24",
-      "url": "https://www.deezer.com/album/1033745712",
-      "image": "https://cdn-images.dzcdn.net/images/cover/5c9989fd075e08a8147c93b211bb813b/1000x1000-000000-80-0-0.jpg",
-      "artist": "GIMS",
-      "category": "mainstream"
-    },
-    {
-      "title": "Ketchup",
-      "type": "single",
-      "release_date": "2026-07-24",
-      "url": "https://www.deezer.com/album/1031651922",
-      "image": "https://cdn-images.dzcdn.net/images/cover/fe1b14ff1dc9556b94e6e7cec4503d9f/1000x1000-000000-80-0-0.jpg",
-      "artist": "Naza",
       "category": "mainstream"
     }
   ]
