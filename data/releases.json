@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T07:43:28.752815Z",
-  "since_date": "2026-08-07",
+  "generated_at": "2026-08-21T06:59:25.522744Z",
+  "since_date": "2026-08-14",
   "releases": [
     {
       "title": "ZushiBoyz vol.1",
@@ -12,12 +12,12 @@
       "category": "caviar"
     },
     {
-      "title": "Cantona",
+      "title": "Coachella",
       "type": "single",
-      "release_date": "2026-08-07",
-      "url": "https://www.deezer.com/album/1042609812",
-      "image": "https://cdn-images.dzcdn.net/images/cover/819c6a4237aaf053a016bdec41c11a23/1000x1000-000000-80-0-0.jpg",
-      "artist": "Soolking",
+      "release_date": "2026-08-14",
+      "url": "https://www.deezer.com/album/1049866152",
+      "image": "https://cdn-images.dzcdn.net/images/cover/2ef6582bc94da775e6161bffd453f642/1000x1000-000000-80-0-0.jpg",
+      "artist": "GIMS",
       "category": "mainstream"
     }
   ]
