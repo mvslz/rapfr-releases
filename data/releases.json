@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T06:59:25.522744Z",
-  "since_date": "2026-08-14",
+  "generated_at": "2026-08-28T18:31:58.950660Z",
+  "since_date": "2026-08-21",
   "releases": [
     {
       "title": "ZushiBoyz vol.1",
@@ -12,12 +12,30 @@
       "category": "caviar"
     },
     {
-      "title": "Coachella",
+      "title": "Poz (Remix)",
       "type": "single",
-      "release_date": "2026-08-14",
-      "url": "https://www.deezer.com/album/1049866152",
-      "image": "https://cdn-images.dzcdn.net/images/cover/2ef6582bc94da775e6161bffd453f642/1000x1000-000000-80-0-0.jpg",
+      "release_date": "2026-08-28",
+      "url": "https://www.deezer.com/album/1057272352",
+      "image": "https://cdn-images.dzcdn.net/images/cover/57347d75e2e1627616add19d7bafdfda/1000x1000-000000-80-0-0.jpg",
       "artist": "GIMS",
+      "category": "mainstream"
+    },
+    {
+      "title": "DÉSACCORD",
+      "type": "single",
+      "release_date": "2026-08-28",
+      "url": "https://www.deezer.com/album/1063503831",
+      "image": "https://cdn-images.dzcdn.net/images/cover/d239986972e9b7ffa47bb6fef57824be/1000x1000-000000-80-0-0.jpg",
+      "artist": "GIMS",
+      "category": "mainstream"
+    },
+    {
+      "title": "LA B",
+      "type": "single",
+      "release_date": "2026-08-28",
+      "url": "https://www.deezer.com/album/1058935312",
+      "image": "https://cdn-images.dzcdn.net/images/cover/782360f95083350ce855d035ff1140c0/1000x1000-000000-80-0-0.jpg",
+      "artist": "Koba LaD",
       "category": "mainstream"
     }
   ]
