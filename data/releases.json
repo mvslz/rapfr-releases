@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-28T18:31:58.950660Z",
-  "since_date": "2026-08-21",
+  "generated_at": "2026-09-04T11:05:18.588839Z",
+  "since_date": "2026-08-28",
   "releases": [
     {
       "title": "ZushiBoyz vol.1",
@@ -10,6 +10,24 @@
       "image": "",
       "artist": "Caballero & JeanJass",
       "category": "caviar"
+    },
+    {
+      "title": "ZODIAC",
+      "type": "single",
+      "release_date": "2026-09-03",
+      "url": "https://www.deezer.com/album/1065207261",
+      "image": "https://cdn-images.dzcdn.net/images/cover/212a3a49f0f15fdcbcdac2f07636146c/1000x1000-000000-80-0-0.jpg",
+      "artist": "Ninho",
+      "category": "mainstream"
+    },
+    {
+      "title": "bracelet",
+      "type": "single",
+      "release_date": "2026-09-01",
+      "url": "https://www.deezer.com/album/1056392102",
+      "image": "https://cdn-images.dzcdn.net/images/cover/3465cd1f03e38b0318422c31d4b064eb/1000x1000-000000-80-0-0.jpg",
+      "artist": "Luther",
+      "category": "niche"
     },
     {
       "title": "Poz (Remix)",
