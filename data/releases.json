@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T11:05:18.588839Z",
-  "since_date": "2026-08-28",
+  "generated_at": "2026-09-11T11:05:53.430258Z",
+  "since_date": "2026-09-04",
   "releases": [
     {
       "title": "ZushiBoyz vol.1",
@@ -12,49 +12,49 @@
       "category": "caviar"
     },
     {
-      "title": "ZODIAC",
+      "title": "25",
       "type": "single",
-      "release_date": "2026-09-03",
-      "url": "https://www.deezer.com/album/1065207261",
-      "image": "https://cdn-images.dzcdn.net/images/cover/212a3a49f0f15fdcbcdac2f07636146c/1000x1000-000000-80-0-0.jpg",
-      "artist": "Ninho",
+      "release_date": "2026-09-11",
+      "url": "https://www.deezer.com/album/1068201421",
+      "image": "https://cdn-images.dzcdn.net/images/cover/2ca45ac75f552d96eb2ec3027ccb18c8/1000x1000-000000-80-0-0.jpg",
+      "artist": "Tiakola",
       "category": "mainstream"
     },
     {
-      "title": "bracelet",
+      "title": "Where The River Breathes",
       "type": "single",
-      "release_date": "2026-09-01",
-      "url": "https://www.deezer.com/album/1056392102",
-      "image": "https://cdn-images.dzcdn.net/images/cover/3465cd1f03e38b0318422c31d4b064eb/1000x1000-000000-80-0-0.jpg",
-      "artist": "Luther",
-      "category": "niche"
+      "release_date": "2026-09-08",
+      "url": "https://www.deezer.com/album/1073369882",
+      "image": "https://cdn-images.dzcdn.net/images/cover/76b28566d3b1136ce7e7d0766e5e1734/1000x1000-000000-80-0-0.jpg",
+      "artist": "Hamza",
+      "category": "caviar"
     },
     {
-      "title": "Poz (Remix)",
+      "title": "Lêro",
       "type": "single",
-      "release_date": "2026-08-28",
-      "url": "https://www.deezer.com/album/1057272352",
-      "image": "https://cdn-images.dzcdn.net/images/cover/57347d75e2e1627616add19d7bafdfda/1000x1000-000000-80-0-0.jpg",
-      "artist": "GIMS",
-      "category": "mainstream"
+      "release_date": "2026-09-05",
+      "url": "https://www.deezer.com/album/1065325551",
+      "image": "https://cdn-images.dzcdn.net/images/cover/c6ddf641a3642e215c1707969533e91a/1000x1000-000000-80-0-0.jpg",
+      "artist": "Hamza",
+      "category": "caviar"
     },
     {
-      "title": "DÉSACCORD",
+      "title": "Murda On My Mind",
       "type": "single",
-      "release_date": "2026-08-28",
-      "url": "https://www.deezer.com/album/1063503831",
-      "image": "https://cdn-images.dzcdn.net/images/cover/d239986972e9b7ffa47bb6fef57824be/1000x1000-000000-80-0-0.jpg",
-      "artist": "GIMS",
-      "category": "mainstream"
+      "release_date": "2026-09-05",
+      "url": "https://www.deezer.com/album/1071976852",
+      "image": "https://cdn-images.dzcdn.net/images/cover/30b8454ef90371f3541847ea9b41eabe/1000x1000-000000-80-0-0.jpg",
+      "artist": "Hamza",
+      "category": "caviar"
     },
     {
-      "title": "LA B",
+      "title": "Where the River Widens",
       "type": "single",
-      "release_date": "2026-08-28",
-      "url": "https://www.deezer.com/album/1058935312",
-      "image": "https://cdn-images.dzcdn.net/images/cover/782360f95083350ce855d035ff1140c0/1000x1000-000000-80-0-0.jpg",
-      "artist": "Koba LaD",
-      "category": "mainstream"
+      "release_date": "2026-09-05",
+      "url": "https://www.deezer.com/album/1073139002",
+      "image": "https://cdn-images.dzcdn.net/images/cover/649979d348eec45d657fc41288f958d4/1000x1000-000000-80-0-0.jpg",
+      "artist": "Hamza",
+      "category": "caviar"
     }
   ]
 }
