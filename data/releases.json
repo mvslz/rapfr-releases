@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T11:05:53.430258Z",
-  "since_date": "2026-09-04",
+  "generated_at": "2026-09-18T11:02:19.718817Z",
+  "since_date": "2026-09-11",
   "releases": [
     {
       "title": "ZushiBoyz vol.1",
@@ -12,6 +12,24 @@
       "category": "caviar"
     },
     {
+      "title": "BONNIE",
+      "type": "single",
+      "release_date": "2026-09-18",
+      "url": "https://www.deezer.com/album/1078307752",
+      "image": "https://cdn-images.dzcdn.net/images/cover/0e1ec2317982a01a3e0309eeefdbb67e/1000x1000-000000-80-0-0.jpg",
+      "artist": "GIMS",
+      "category": "mainstream"
+    },
+    {
+      "title": "Akira (SABR)",
+      "type": "single",
+      "release_date": "2026-09-17",
+      "url": "https://www.deezer.com/album/1076442112",
+      "image": "https://cdn-images.dzcdn.net/images/cover/31eb70b9aec91a275a5ea364754a04c5/1000x1000-000000-80-0-0.jpg",
+      "artist": "Zamdane",
+      "category": "niche"
+    },
+    {
       "title": "25",
       "type": "single",
       "release_date": "2026-09-11",
@@ -19,42 +37,6 @@
       "image": "https://cdn-images.dzcdn.net/images/cover/2ca45ac75f552d96eb2ec3027ccb18c8/1000x1000-000000-80-0-0.jpg",
       "artist": "Tiakola",
       "category": "mainstream"
-    },
-    {
-      "title": "Where The River Breathes",
-      "type": "single",
-      "release_date": "2026-09-08",
-      "url": "https://www.deezer.com/album/1073369882",
-      "image": "https://cdn-images.dzcdn.net/images/cover/76b28566d3b1136ce7e7d0766e5e1734/1000x1000-000000-80-0-0.jpg",
-      "artist": "Hamza",
-      "category": "caviar"
-    },
-    {
-      "title": "Lêro",
-      "type": "single",
-      "release_date": "2026-09-05",
-      "url": "https://www.deezer.com/album/1065325551",
-      "image": "https://cdn-images.dzcdn.net/images/cover/c6ddf641a3642e215c1707969533e91a/1000x1000-000000-80-0-0.jpg",
-      "artist": "Hamza",
-      "category": "caviar"
-    },
-    {
-      "title": "Murda On My Mind",
-      "type": "single",
-      "release_date": "2026-09-05",
-      "url": "https://www.deezer.com/album/1071976852",
-      "image": "https://cdn-images.dzcdn.net/images/cover/30b8454ef90371f3541847ea9b41eabe/1000x1000-000000-80-0-0.jpg",
-      "artist": "Hamza",
-      "category": "caviar"
-    },
-    {
-      "title": "Where the River Widens",
-      "type": "single",
-      "release_date": "2026-09-05",
-      "url": "https://www.deezer.com/album/1073139002",
-      "image": "https://cdn-images.dzcdn.net/images/cover/649979d348eec45d657fc41288f958d4/1000x1000-000000-80-0-0.jpg",
-      "artist": "Hamza",
-      "category": "caviar"
     }
   ]
 }
