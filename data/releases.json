@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T11:02:19.718817Z",
-  "since_date": "2026-09-11",
+  "generated_at": "2026-09-25T11:40:26.543629Z",
+  "since_date": "2026-09-18",
   "releases": [
     {
       "title": "ZushiBoyz vol.1",
@@ -12,6 +12,87 @@
       "category": "caviar"
     },
     {
+      "title": "WpointM",
+      "type": "album",
+      "release_date": "2026-09-25",
+      "url": "https://www.deezer.com/album/1103797432",
+      "image": "https://cdn-images.dzcdn.net/images/cover/20e710fb1b502101b9ec74833e66a310/1000x1000-000000-80-0-0.jpg",
+      "artist": "Tiakola",
+      "category": "mainstream"
+    },
+    {
+      "title": "WpointM - 93120",
+      "type": "ep",
+      "release_date": "2026-09-24",
+      "url": "https://www.deezer.com/album/1103118182",
+      "image": "https://cdn-images.dzcdn.net/images/cover/52935a7f631b28aaeabde438819df0fd/1000x1000-000000-80-0-0.jpg",
+      "artist": "Tiakola",
+      "category": "mainstream"
+    },
+    {
+      "title": "Winter Melo Music",
+      "type": "single",
+      "release_date": "2026-09-23",
+      "url": "https://www.deezer.com/album/1103118272",
+      "image": "https://cdn-images.dzcdn.net/images/cover/52935a7f631b28aaeabde438819df0fd/1000x1000-000000-80-0-0.jpg",
+      "artist": "Tiakola",
+      "category": "mainstream"
+    },
+    {
+      "title": "La vie d’un Homme",
+      "type": "single",
+      "release_date": "2026-09-23",
+      "url": "https://www.deezer.com/album/1103797162",
+      "image": "https://cdn-images.dzcdn.net/images/cover/20e710fb1b502101b9ec74833e66a310/1000x1000-000000-80-0-0.jpg",
+      "artist": "Tiakola",
+      "category": "mainstream"
+    },
+    {
+      "title": "Jet Lag",
+      "type": "single",
+      "release_date": "2026-09-23",
+      "url": "https://www.deezer.com/album/1103797172",
+      "image": "https://cdn-images.dzcdn.net/images/cover/20e710fb1b502101b9ec74833e66a310/1000x1000-000000-80-0-0.jpg",
+      "artist": "Tiakola",
+      "category": "mainstream"
+    },
+    {
+      "title": "Bottega",
+      "type": "single",
+      "release_date": "2026-09-23",
+      "url": "https://www.deezer.com/album/1103797182",
+      "image": "https://cdn-images.dzcdn.net/images/cover/20e710fb1b502101b9ec74833e66a310/1000x1000-000000-80-0-0.jpg",
+      "artist": "Tiakola",
+      "category": "mainstream"
+    },
+    {
+      "title": "Vrai OG",
+      "type": "single",
+      "release_date": "2026-09-23",
+      "url": "https://www.deezer.com/album/1103797202",
+      "image": "https://cdn-images.dzcdn.net/images/cover/20e710fb1b502101b9ec74833e66a310/1000x1000-000000-80-0-0.jpg",
+      "artist": "Tiakola",
+      "category": "mainstream"
+    },
+    {
+      "title": "La Nocturne",
+      "type": "single",
+      "release_date": "2026-09-23",
+      "url": "https://www.deezer.com/album/1103797232",
+      "image": "https://cdn-images.dzcdn.net/images/cover/20e710fb1b502101b9ec74833e66a310/1000x1000-000000-80-0-0.jpg",
+      "artist": "Tiakola",
+      "category": "mainstream"
+    },
+    {
+      "title": "Best",
+      "type": "single",
+      "release_date": "2026-09-23",
+      "url": "https://www.deezer.com/album/1103797252",
+      "image": "https://cdn-images.dzcdn.net/images/cover/20e710fb1b502101b9ec74833e66a310/1000x1000-000000-80-0-0.jpg",
+      "artist": "Tiakola",
+      "category": "mainstream"
+    },
+    {
       "title": "BONNIE",
       "type": "single",
       "release_date": "2026-09-18",
@@ -21,22 +102,13 @@
       "category": "mainstream"
     },
     {
-      "title": "Akira (SABR)",
-      "type": "single",
-      "release_date": "2026-09-17",
-      "url": "https://www.deezer.com/album/1076442112",
-      "image": "https://cdn-images.dzcdn.net/images/cover/31eb70b9aec91a275a5ea364754a04c5/1000x1000-000000-80-0-0.jpg",
-      "artist": "Zamdane",
+      "title": "shelf",
+      "type": "album",
+      "release_date": "2026-09-18",
+      "url": "https://www.deezer.com/album/1066927981",
+      "image": "https://cdn-images.dzcdn.net/images/cover/3465cd1f03e38b0318422c31d4b064eb/1000x1000-000000-80-0-0.jpg",
+      "artist": "Luther",
       "category": "niche"
-    },
-    {
-      "title": "25",
-      "type": "single",
-      "release_date": "2026-09-11",
-      "url": "https://www.deezer.com/album/1068201421",
-      "image": "https://cdn-images.dzcdn.net/images/cover/2ca45ac75f552d96eb2ec3027ccb18c8/1000x1000-000000-80-0-0.jpg",
-      "artist": "Tiakola",
-      "category": "mainstream"
     }
   ]
 }
