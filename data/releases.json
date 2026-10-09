@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T12:21:26.118021Z",
-  "since_date": "2026-09-25",
+  "generated_at": "2026-10-09T13:03:34.385117Z",
+  "since_date": "2026-10-02",
   "releases": [
     {
       "title": "ZushiBoyz vol.1",
@@ -12,31 +12,40 @@
       "category": "caviar"
     },
     {
+      "title": "Fast Life Remix",
+      "type": "single",
+      "release_date": "2026-10-09",
+      "url": "https://www.deezer.com/album/1109145692",
+      "image": "https://cdn-images.dzcdn.net/images/cover/56ea9c505a21df3c7fc46155feac1849/1000x1000-000000-80-0-0.jpg",
+      "artist": "Booba",
+      "category": "mainstream"
+    },
+    {
+      "title": "Pas d'problèmes",
+      "type": "single",
+      "release_date": "2026-10-09",
+      "url": "https://www.deezer.com/album/1114387692",
+      "image": "https://cdn-images.dzcdn.net/images/cover/05379ce4eaed0c0e0e54b875406e7680/1000x1000-000000-80-0-0.jpg",
+      "artist": "Naza",
+      "category": "mainstream"
+    },
+    {
       "title": "HMI House",
       "type": "single",
       "release_date": "2026-10-02",
       "url": "https://www.deezer.com/album/1109379842",
-      "image": "https://cdn-images.dzcdn.net/images/cover/8c9ed267fb53062be00b07e85095f044/1000x1000-000000-80-0-0.jpg",
+      "image": "https://cdn-images.dzcdn.net/images/cover/30a05975dc19b559b1d1d3b99227a20d/1000x1000-000000-80-0-0.jpg",
       "artist": "Heuss L'enfoiré",
       "category": "mainstream"
     },
     {
-      "title": "Skywalker (Live)",
-      "type": "single",
-      "release_date": "2026-10-01",
-      "url": "https://www.deezer.com/album/874651902",
-      "image": "https://cdn-images.dzcdn.net/images/cover/c78eb461d44ffbd298c37d9b9235e3b7/1000x1000-000000-80-0-0.jpg",
-      "artist": "S.Pri Noir",
-      "category": "niche"
-    },
-    {
-      "title": "WpointM",
+      "title": "F5",
       "type": "album",
-      "release_date": "2026-09-25",
-      "url": "https://www.deezer.com/album/1103797432",
-      "image": "https://cdn-images.dzcdn.net/images/cover/20e710fb1b502101b9ec74833e66a310/1000x1000-000000-80-0-0.jpg",
-      "artist": "Tiakola",
-      "category": "mainstream"
+      "release_date": "2026-10-02",
+      "url": "https://www.deezer.com/album/1034637592",
+      "image": "https://cdn-images.dzcdn.net/images/cover/2a83eb537540d21a64299f5cc5ce4245/1000x1000-000000-80-0-0.jpg",
+      "artist": "Swing",
+      "category": "niche"
     }
   ]
 }
