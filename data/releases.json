@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T13:03:34.385117Z",
-  "since_date": "2026-10-02",
+  "generated_at": "2026-10-16T11:12:15.012797Z",
+  "since_date": "2026-10-09",
   "releases": [
     {
       "title": "ZushiBoyz vol.1",
@@ -12,6 +12,51 @@
       "category": "caviar"
     },
     {
+      "title": "APRÈS LA SAISIE",
+      "type": "album",
+      "release_date": "2026-10-16",
+      "url": "https://www.deezer.com/album/1119459532",
+      "image": "https://cdn-images.dzcdn.net/images/cover/089d7fbd6a02fc0e28c33e8b52cae23a/1000x1000-000000-80-0-0.jpg",
+      "artist": "Heuss L'enfoiré",
+      "category": "mainstream"
+    },
+    {
+      "title": "600K",
+      "type": "single",
+      "release_date": "2026-10-15",
+      "url": "https://www.deezer.com/album/1119459552",
+      "image": "https://cdn-images.dzcdn.net/images/cover/089d7fbd6a02fc0e28c33e8b52cae23a/1000x1000-000000-80-0-0.jpg",
+      "artist": "Heuss L'enfoiré",
+      "category": "mainstream"
+    },
+    {
+      "title": "Zone à risque",
+      "type": "single",
+      "release_date": "2026-10-15",
+      "url": "https://www.deezer.com/album/1119459582",
+      "image": "https://cdn-images.dzcdn.net/images/cover/089d7fbd6a02fc0e28c33e8b52cae23a/1000x1000-000000-80-0-0.jpg",
+      "artist": "Heuss L'enfoiré",
+      "category": "mainstream"
+    },
+    {
+      "title": "One More Time",
+      "type": "single",
+      "release_date": "2026-10-15",
+      "url": "https://www.deezer.com/album/1119459602",
+      "image": "https://cdn-images.dzcdn.net/images/cover/089d7fbd6a02fc0e28c33e8b52cae23a/1000x1000-000000-80-0-0.jpg",
+      "artist": "Heuss L'enfoiré",
+      "category": "mainstream"
+    },
+    {
+      "title": "BLANCO NEMESIS",
+      "type": "album",
+      "release_date": "2026-10-15",
+      "url": "https://www.deezer.com/album/1121686522",
+      "image": "https://cdn-images.dzcdn.net/images/cover/028f28d6c827996708dbba2d6fce3c02/1000x1000-000000-80-0-0.jpg",
+      "artist": "Booba",
+      "category": "mainstream"
+    },
+    {
       "title": "Fast Life Remix",
       "type": "single",
       "release_date": "2026-10-09",
@@ -19,33 +64,6 @@
       "image": "https://cdn-images.dzcdn.net/images/cover/56ea9c505a21df3c7fc46155feac1849/1000x1000-000000-80-0-0.jpg",
       "artist": "Booba",
       "category": "mainstream"
-    },
-    {
-      "title": "Pas d'problèmes",
-      "type": "single",
-      "release_date": "2026-10-09",
-      "url": "https://www.deezer.com/album/1114387692",
-      "image": "https://cdn-images.dzcdn.net/images/cover/05379ce4eaed0c0e0e54b875406e7680/1000x1000-000000-80-0-0.jpg",
-      "artist": "Naza",
-      "category": "mainstream"
-    },
-    {
-      "title": "HMI House",
-      "type": "single",
-      "release_date": "2026-10-02",
-      "url": "https://www.deezer.com/album/1109379842",
-      "image": "https://cdn-images.dzcdn.net/images/cover/30a05975dc19b559b1d1d3b99227a20d/1000x1000-000000-80-0-0.jpg",
-      "artist": "Heuss L'enfoiré",
-      "category": "mainstream"
-    },
-    {
-      "title": "F5",
-      "type": "album",
-      "release_date": "2026-10-02",
-      "url": "https://www.deezer.com/album/1034637592",
-      "image": "https://cdn-images.dzcdn.net/images/cover/2a83eb537540d21a64299f5cc5ce4245/1000x1000-000000-80-0-0.jpg",
-      "artist": "Swing",
-      "category": "niche"
     }
   ]
 }
