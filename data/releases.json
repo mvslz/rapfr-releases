@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T11:12:15.012797Z",
-  "since_date": "2026-10-09",
+  "generated_at": "2026-10-23T11:26:35.540140Z",
+  "since_date": "2026-10-16",
   "releases": [
     {
       "title": "ZushiBoyz vol.1",
@@ -12,57 +12,39 @@
       "category": "caviar"
     },
     {
+      "title": "Close My Eyes",
+      "type": "single",
+      "release_date": "2026-10-23",
+      "url": "https://www.deezer.com/album/1108411212",
+      "image": "https://cdn-images.dzcdn.net/images/cover/49b84182731dbf7a2788b771094c319a/1000x1000-000000-80-0-0.jpg",
+      "artist": "Lous and The Yakuza",
+      "category": "caviar"
+    },
+    {
+      "title": "DES SOUS",
+      "type": "single",
+      "release_date": "2026-10-23",
+      "url": "https://www.deezer.com/album/1128106781",
+      "image": "https://cdn-images.dzcdn.net/images/cover/cbe079ad40b7370b26069b17328fc133/1000x1000-000000-80-0-0.jpg",
+      "artist": "GIMS",
+      "category": "mainstream"
+    },
+    {
+      "title": "dead",
+      "type": "single",
+      "release_date": "2026-10-20",
+      "url": "https://www.deezer.com/album/1127308301",
+      "image": "https://cdn-images.dzcdn.net/images/cover/fb78fb4a91bbe1a7f4d407afc2e35e30/1000x1000-000000-80-0-0.jpg",
+      "artist": "Luther",
+      "category": "niche"
+    },
+    {
       "title": "APRÈS LA SAISIE",
       "type": "album",
       "release_date": "2026-10-16",
       "url": "https://www.deezer.com/album/1119459532",
       "image": "https://cdn-images.dzcdn.net/images/cover/089d7fbd6a02fc0e28c33e8b52cae23a/1000x1000-000000-80-0-0.jpg",
       "artist": "Heuss L'enfoiré",
-      "category": "mainstream"
-    },
-    {
-      "title": "600K",
-      "type": "single",
-      "release_date": "2026-10-15",
-      "url": "https://www.deezer.com/album/1119459552",
-      "image": "https://cdn-images.dzcdn.net/images/cover/089d7fbd6a02fc0e28c33e8b52cae23a/1000x1000-000000-80-0-0.jpg",
-      "artist": "Heuss L'enfoiré",
-      "category": "mainstream"
-    },
-    {
-      "title": "Zone à risque",
-      "type": "single",
-      "release_date": "2026-10-15",
-      "url": "https://www.deezer.com/album/1119459582",
-      "image": "https://cdn-images.dzcdn.net/images/cover/089d7fbd6a02fc0e28c33e8b52cae23a/1000x1000-000000-80-0-0.jpg",
-      "artist": "Heuss L'enfoiré",
-      "category": "mainstream"
-    },
-    {
-      "title": "One More Time",
-      "type": "single",
-      "release_date": "2026-10-15",
-      "url": "https://www.deezer.com/album/1119459602",
-      "image": "https://cdn-images.dzcdn.net/images/cover/089d7fbd6a02fc0e28c33e8b52cae23a/1000x1000-000000-80-0-0.jpg",
-      "artist": "Heuss L'enfoiré",
-      "category": "mainstream"
-    },
-    {
-      "title": "BLANCO NEMESIS",
-      "type": "album",
-      "release_date": "2026-10-15",
-      "url": "https://www.deezer.com/album/1121686522",
-      "image": "https://cdn-images.dzcdn.net/images/cover/028f28d6c827996708dbba2d6fce3c02/1000x1000-000000-80-0-0.jpg",
-      "artist": "Booba",
-      "category": "mainstream"
-    },
-    {
-      "title": "Fast Life Remix",
-      "type": "single",
-      "release_date": "2026-10-09",
-      "url": "https://www.deezer.com/album/1109145692",
-      "image": "https://cdn-images.dzcdn.net/images/cover/56ea9c505a21df3c7fc46155feac1849/1000x1000-000000-80-0-0.jpg",
-      "artist": "Booba",
       "category": "mainstream"
     }
   ]
