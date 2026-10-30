@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T11:26:35.540140Z",
-  "since_date": "2026-10-16",
+  "generated_at": "2026-10-30T12:39:29.109347Z",
+  "since_date": "2026-10-23",
   "releases": [
     {
       "title": "ZushiBoyz vol.1",
@@ -12,7 +12,16 @@
       "category": "caviar"
     },
     {
-      "title": "Close My Eyes",
+      "title": "XXX",
+      "type": "single",
+      "release_date": "2026-10-30",
+      "url": "https://www.deezer.com/album/1131135221",
+      "image": "https://cdn-images.dzcdn.net/images/cover/5d7f42f3a107fe479f02583c38227b24/1000x1000-000000-80-0-0.jpg",
+      "artist": "Orelsan",
+      "category": "caviar"
+    },
+    {
+      "title": "Close my eyes",
       "type": "single",
       "release_date": "2026-10-23",
       "url": "https://www.deezer.com/album/1108411212",
@@ -27,24 +36,6 @@
       "url": "https://www.deezer.com/album/1128106781",
       "image": "https://cdn-images.dzcdn.net/images/cover/cbe079ad40b7370b26069b17328fc133/1000x1000-000000-80-0-0.jpg",
       "artist": "GIMS",
-      "category": "mainstream"
-    },
-    {
-      "title": "dead",
-      "type": "single",
-      "release_date": "2026-10-20",
-      "url": "https://www.deezer.com/album/1127308301",
-      "image": "https://cdn-images.dzcdn.net/images/cover/fb78fb4a91bbe1a7f4d407afc2e35e30/1000x1000-000000-80-0-0.jpg",
-      "artist": "Luther",
-      "category": "niche"
-    },
-    {
-      "title": "APRÈS LA SAISIE",
-      "type": "album",
-      "release_date": "2026-10-16",
-      "url": "https://www.deezer.com/album/1119459532",
-      "image": "https://cdn-images.dzcdn.net/images/cover/089d7fbd6a02fc0e28c33e8b52cae23a/1000x1000-000000-80-0-0.jpg",
-      "artist": "Heuss L'enfoiré",
       "category": "mainstream"
     }
   ]
