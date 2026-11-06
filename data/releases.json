@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T12:39:29.109347Z",
-  "since_date": "2026-10-23",
+  "generated_at": "2026-11-06T14:06:47.918787Z",
+  "since_date": "2026-10-30",
   "releases": [
     {
       "title": "ZushiBoyz vol.1",
@@ -12,6 +12,15 @@
       "category": "caviar"
     },
     {
+      "title": "Monde arabe",
+      "type": "single",
+      "release_date": "2026-11-06",
+      "url": "https://www.deezer.com/album/1136627451",
+      "image": "https://cdn-images.dzcdn.net/images/cover/0cc7283773bb87beaf15d606430692a4/1000x1000-000000-80-0-0.jpg",
+      "artist": "GIMS",
+      "category": "mainstream"
+    },
+    {
       "title": "XXX",
       "type": "single",
       "release_date": "2026-10-30",
@@ -19,24 +28,6 @@
       "image": "https://cdn-images.dzcdn.net/images/cover/5d7f42f3a107fe479f02583c38227b24/1000x1000-000000-80-0-0.jpg",
       "artist": "Orelsan",
       "category": "caviar"
-    },
-    {
-      "title": "Close my eyes",
-      "type": "single",
-      "release_date": "2026-10-23",
-      "url": "https://www.deezer.com/album/1108411212",
-      "image": "https://cdn-images.dzcdn.net/images/cover/49b84182731dbf7a2788b771094c319a/1000x1000-000000-80-0-0.jpg",
-      "artist": "Lous and The Yakuza",
-      "category": "caviar"
-    },
-    {
-      "title": "DES SOUS",
-      "type": "single",
-      "release_date": "2026-10-23",
-      "url": "https://www.deezer.com/album/1128106781",
-      "image": "https://cdn-images.dzcdn.net/images/cover/cbe079ad40b7370b26069b17328fc133/1000x1000-000000-80-0-0.jpg",
-      "artist": "GIMS",
-      "category": "mainstream"
     }
   ]
 }
