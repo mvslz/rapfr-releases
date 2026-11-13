@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T14:06:47.918787Z",
-  "since_date": "2026-10-30",
+  "generated_at": "2026-11-13T14:26:22.464021Z",
+  "since_date": "2026-11-06",
   "releases": [
     {
       "title": "ZushiBoyz vol.1",
@@ -12,6 +12,33 @@
       "category": "caviar"
     },
     {
+      "title": "El Classico",
+      "type": "single",
+      "release_date": "2026-11-13",
+      "url": "https://www.deezer.com/album/1120569002",
+      "image": "https://cdn-images.dzcdn.net/images/cover/f3128440bbb5633854c0315c0bb55e75/1000x1000-000000-80-0-0.jpg",
+      "artist": "Tiakola",
+      "category": "mainstream"
+    },
+    {
+      "title": "JSUIS PLUS DANS ÇA (feat. Tiakola)",
+      "type": "single",
+      "release_date": "2026-11-12",
+      "url": "https://www.deezer.com/album/1132773701",
+      "image": "https://cdn-images.dzcdn.net/images/cover/07883e5e62ffee8a1358cc386b81b8d6/1000x1000-000000-80-0-0.jpg",
+      "artist": "Tiakola",
+      "category": "mainstream"
+    },
+    {
+      "title": "ZGINGA (feat. Heuss l'Enfoiré)",
+      "type": "single",
+      "release_date": "2026-11-12",
+      "url": "https://www.deezer.com/album/1137893711",
+      "image": "https://cdn-images.dzcdn.net/images/cover/637efa430674064f3d9d032ac0bae1e7/1000x1000-000000-80-0-0.jpg",
+      "artist": "Heuss L'enfoiré",
+      "category": "mainstream"
+    },
+    {
       "title": "Monde arabe",
       "type": "single",
       "release_date": "2026-11-06",
@@ -19,15 +46,6 @@
       "image": "https://cdn-images.dzcdn.net/images/cover/0cc7283773bb87beaf15d606430692a4/1000x1000-000000-80-0-0.jpg",
       "artist": "GIMS",
       "category": "mainstream"
-    },
-    {
-      "title": "XXX",
-      "type": "single",
-      "release_date": "2026-10-30",
-      "url": "https://www.deezer.com/album/1131135221",
-      "image": "https://cdn-images.dzcdn.net/images/cover/5d7f42f3a107fe479f02583c38227b24/1000x1000-000000-80-0-0.jpg",
-      "artist": "Orelsan",
-      "category": "caviar"
     }
   ]
 }
