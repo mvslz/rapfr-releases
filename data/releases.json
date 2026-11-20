@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T14:26:22.464021Z",
-  "since_date": "2026-11-06",
+  "generated_at": "2026-11-20T15:17:38.286212Z",
+  "since_date": "2026-11-13",
   "releases": [
     {
       "title": "ZushiBoyz vol.1",
@@ -12,39 +12,30 @@
       "category": "caviar"
     },
     {
+      "title": "M.I.L.S 4 (Deluxe Edition)",
+      "type": "album",
+      "release_date": "2026-11-20",
+      "url": "https://www.deezer.com/album/1146155171",
+      "image": "https://cdn-images.dzcdn.net/images/cover/e7c0ab17c603ca4d76ccd18350d3a7d2/1000x1000-000000-80-0-0.jpg",
+      "artist": "Ninho",
+      "category": "mainstream"
+    },
+    {
+      "title": "Ça fait mal",
+      "type": "single",
+      "release_date": "2026-11-19",
+      "url": "https://www.deezer.com/album/1145124091",
+      "image": "https://cdn-images.dzcdn.net/images/cover/841bc3f07a633d783bbd534766502b70/1000x1000-000000-80-0-0.jpg",
+      "artist": "Orelsan",
+      "category": "caviar"
+    },
+    {
       "title": "El Classico",
       "type": "single",
       "release_date": "2026-11-13",
       "url": "https://www.deezer.com/album/1120569002",
       "image": "https://cdn-images.dzcdn.net/images/cover/f3128440bbb5633854c0315c0bb55e75/1000x1000-000000-80-0-0.jpg",
       "artist": "Tiakola",
-      "category": "mainstream"
-    },
-    {
-      "title": "JSUIS PLUS DANS ÇA (feat. Tiakola)",
-      "type": "single",
-      "release_date": "2026-11-12",
-      "url": "https://www.deezer.com/album/1132773701",
-      "image": "https://cdn-images.dzcdn.net/images/cover/07883e5e62ffee8a1358cc386b81b8d6/1000x1000-000000-80-0-0.jpg",
-      "artist": "Tiakola",
-      "category": "mainstream"
-    },
-    {
-      "title": "ZGINGA (feat. Heuss l'Enfoiré)",
-      "type": "single",
-      "release_date": "2026-11-12",
-      "url": "https://www.deezer.com/album/1137893711",
-      "image": "https://cdn-images.dzcdn.net/images/cover/637efa430674064f3d9d032ac0bae1e7/1000x1000-000000-80-0-0.jpg",
-      "artist": "Heuss L'enfoiré",
-      "category": "mainstream"
-    },
-    {
-      "title": "Monde arabe",
-      "type": "single",
-      "release_date": "2026-11-06",
-      "url": "https://www.deezer.com/album/1136627451",
-      "image": "https://cdn-images.dzcdn.net/images/cover/0cc7283773bb87beaf15d606430692a4/1000x1000-000000-80-0-0.jpg",
-      "artist": "GIMS",
       "category": "mainstream"
     }
   ]
