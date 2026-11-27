@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T15:17:38.286212Z",
-  "since_date": "2026-11-13",
+  "generated_at": "2026-11-27T16:30:56.852926Z",
+  "since_date": "2026-11-20",
   "releases": [
     {
       "title": "ZushiBoyz vol.1",
@@ -12,30 +12,147 @@
       "category": "caviar"
     },
     {
+      "title": "SELECT",
+      "type": "single",
+      "release_date": "2026-11-27",
+      "url": "https://www.deezer.com/album/1142258681",
+      "image": "https://cdn-images.dzcdn.net/images/cover/c0a95ff1d9db9b976d1925055c710e6c/1000x1000-000000-80-0-0.jpg",
+      "artist": "Gazo",
+      "category": "mainstream"
+    },
+    {
+      "title": "Rue André Bréchet",
+      "type": "album",
+      "release_date": "2026-11-27",
+      "url": "https://www.deezer.com/album/1153491181",
+      "image": "https://cdn-images.dzcdn.net/images/cover/313822fbc85916e7c815262b98acada6/1000x1000-000000-80-0-0.jpg",
+      "artist": "Leto",
+      "category": "mainstream"
+    },
+    {
+      "title": "SELECT",
+      "type": "single",
+      "release_date": "2026-11-27",
+      "url": "https://www.deezer.com/album/1142258681",
+      "image": "https://cdn-images.dzcdn.net/images/cover/c0a95ff1d9db9b976d1925055c710e6c/1000x1000-000000-80-0-0.jpg",
+      "artist": "Freeze Corleone",
+      "category": "niche"
+    },
+    {
+      "title": "Dans la peau",
+      "type": "single",
+      "release_date": "2026-11-26",
+      "url": "https://www.deezer.com/album/1153799271",
+      "image": "https://cdn-images.dzcdn.net/images/cover/313822fbc85916e7c815262b98acada6/1000x1000-000000-80-0-0.jpg",
+      "artist": "Josman",
+      "category": "caviar"
+    },
+    {
+      "title": "Love Story",
+      "type": "single",
+      "release_date": "2026-11-26",
+      "url": "https://www.deezer.com/album/1153799241",
+      "image": "https://cdn-images.dzcdn.net/images/cover/313822fbc85916e7c815262b98acada6/1000x1000-000000-80-0-0.jpg",
+      "artist": "Tiakola",
+      "category": "mainstream"
+    },
+    {
+      "title": "Kiffeuse",
+      "type": "single",
+      "release_date": "2026-11-26",
+      "url": "https://www.deezer.com/album/1153491231",
+      "image": "https://cdn-images.dzcdn.net/images/cover/313822fbc85916e7c815262b98acada6/1000x1000-000000-80-0-0.jpg",
+      "artist": "Aya Nakamura",
+      "category": "mainstream"
+    },
+    {
+      "title": "Kiffeuse",
+      "type": "single",
+      "release_date": "2026-11-26",
+      "url": "https://www.deezer.com/album/1153491231",
+      "image": "https://cdn-images.dzcdn.net/images/cover/313822fbc85916e7c815262b98acada6/1000x1000-000000-80-0-0.jpg",
+      "artist": "Leto",
+      "category": "mainstream"
+    },
+    {
+      "title": "Est-ce que t'es branché ?",
+      "type": "single",
+      "release_date": "2026-11-26",
+      "url": "https://www.deezer.com/album/1153799141",
+      "image": "https://cdn-images.dzcdn.net/images/cover/313822fbc85916e7c815262b98acada6/1000x1000-000000-80-0-0.jpg",
+      "artist": "Leto",
+      "category": "mainstream"
+    },
+    {
+      "title": "Flash Gordon",
+      "type": "single",
+      "release_date": "2026-11-26",
+      "url": "https://www.deezer.com/album/1153799161",
+      "image": "https://cdn-images.dzcdn.net/images/cover/313822fbc85916e7c815262b98acada6/1000x1000-000000-80-0-0.jpg",
+      "artist": "Leto",
+      "category": "mainstream"
+    },
+    {
+      "title": "Baddies",
+      "type": "single",
+      "release_date": "2026-11-26",
+      "url": "https://www.deezer.com/album/1153799201",
+      "image": "https://cdn-images.dzcdn.net/images/cover/313822fbc85916e7c815262b98acada6/1000x1000-000000-80-0-0.jpg",
+      "artist": "Leto",
+      "category": "mainstream"
+    },
+    {
+      "title": "Love Story",
+      "type": "single",
+      "release_date": "2026-11-26",
+      "url": "https://www.deezer.com/album/1153799241",
+      "image": "https://cdn-images.dzcdn.net/images/cover/313822fbc85916e7c815262b98acada6/1000x1000-000000-80-0-0.jpg",
+      "artist": "Leto",
+      "category": "mainstream"
+    },
+    {
+      "title": "Dans la peau",
+      "type": "single",
+      "release_date": "2026-11-26",
+      "url": "https://www.deezer.com/album/1153799271",
+      "image": "https://cdn-images.dzcdn.net/images/cover/313822fbc85916e7c815262b98acada6/1000x1000-000000-80-0-0.jpg",
+      "artist": "Leto",
+      "category": "mainstream"
+    },
+    {
+      "title": "M'approcher du soleil",
+      "type": "single",
+      "release_date": "2026-11-26",
+      "url": "https://www.deezer.com/album/1150924251",
+      "image": "https://cdn-images.dzcdn.net/images/cover/4a39925d9ba80f5866fe7e083960abca/1000x1000-000000-80-0-0.jpg",
+      "artist": "Zamdane",
+      "category": "niche"
+    },
+    {
+      "title": "PLAN B",
+      "type": "single",
+      "release_date": "2026-11-23",
+      "url": "https://www.deezer.com/album/1150940361",
+      "image": "https://cdn-images.dzcdn.net/images/cover/c68cb501cd49f4c72adc8847fadfab17/1000x1000-000000-80-0-0.jpg",
+      "artist": "Alpha Wann",
+      "category": "caviar"
+    },
+    {
+      "title": "Ma préférée",
+      "type": "single",
+      "release_date": "2026-11-20",
+      "url": "https://www.deezer.com/album/1140343291",
+      "image": "https://cdn-images.dzcdn.net/images/cover/5e7164aadec75ecd004e8e331e7256fb/1000x1000-000000-80-0-0.jpg",
+      "artist": "Jul",
+      "category": "mainstream"
+    },
+    {
       "title": "M.I.L.S 4 (Deluxe Edition)",
       "type": "album",
       "release_date": "2026-11-20",
       "url": "https://www.deezer.com/album/1146155171",
       "image": "https://cdn-images.dzcdn.net/images/cover/e7c0ab17c603ca4d76ccd18350d3a7d2/1000x1000-000000-80-0-0.jpg",
       "artist": "Ninho",
-      "category": "mainstream"
-    },
-    {
-      "title": "Ça fait mal",
-      "type": "single",
-      "release_date": "2026-11-19",
-      "url": "https://www.deezer.com/album/1145124091",
-      "image": "https://cdn-images.dzcdn.net/images/cover/841bc3f07a633d783bbd534766502b70/1000x1000-000000-80-0-0.jpg",
-      "artist": "Orelsan",
-      "category": "caviar"
-    },
-    {
-      "title": "El Classico",
-      "type": "single",
-      "release_date": "2026-11-13",
-      "url": "https://www.deezer.com/album/1120569002",
-      "image": "https://cdn-images.dzcdn.net/images/cover/f3128440bbb5633854c0315c0bb55e75/1000x1000-000000-80-0-0.jpg",
-      "artist": "Tiakola",
       "category": "mainstream"
     }
   ]
